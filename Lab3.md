@@ -242,4 +242,7 @@ ggplot(lab3data, aes(x = Gender, y = SWL)) + geom_violin(aes(fill=Gender)) + sca
 
 # Q2: What you can tell from looking at a violin plot? What you cannot tell? What inferences you can make based on the two violin plots?
 
-I can find out the maximum, minimum and
+I can find out the maximum, minimum and the mode of the variable from
+the violin plot, but we cannot tell the mean and the standard deviation.
+From the two plots, we can infer that males have higher self-esteem but
+the life satisfaction of males and females are similar.
